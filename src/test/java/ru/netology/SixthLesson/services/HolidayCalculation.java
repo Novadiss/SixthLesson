@@ -1,5 +1,4 @@
-package ru.netology.services;
-
+package ru.netology.SixthLesson.services;
 public class HolidayCalculation {
     public int calculate(int income, int expenses, int threshold, int unexpected) {
         int count = 0; // счётчик месяцев отдыха

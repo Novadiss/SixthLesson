@@ -1,5 +1,4 @@
-package ru.netology.services;
-
+package ru.netology.SixthLesson.services;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvFileSource;
 
